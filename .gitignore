@@ -1,0 +1,9 @@
+Library/
+*.sln
+*.csproj
+Assets/UnityVS/
+Assets/UnityVS.meta
+obj/
+*.suo
+UpgradeLog.htm
+Temp/
